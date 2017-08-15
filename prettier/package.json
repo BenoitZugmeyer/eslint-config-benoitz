@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-benoitz-prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Default ESLint configuration for my projects, with Prettier support",
   "repository": "https://github.com/BenoitZugmeyer/eslint-config-benoitz",
