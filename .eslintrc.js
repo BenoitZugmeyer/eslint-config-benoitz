@@ -1,1 +1,1 @@
-index.js
+default/index.js
